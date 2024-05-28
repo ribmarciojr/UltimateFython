@@ -1,0 +1,14 @@
+Você foi contratado para desenvolver um sistema de vendas para uma loja virtual. 
+
+O sistema deve permitir o cadastro de produtos, controle de estoque, realização de vendas, geração de relatórios de vendas e também o cadastro de usuários para acessar o sistema.
+
+Funcionalidades do Sistema:
+
+Cadastro de Produto: Permitir o cadastro de novos produtos com informações como código, nome, preço e quantidade em estoque.
+
+Controle de Estoque: Permitir visualizar o estoque atual de produtos, bem como atualizar as informações de quantidade disponível.
+
+Realização de Vendas: Permitir que o usuário registre a venda de produtos, informando o código do produto e a quantidade vendida. O sistema deve verificar se há estoque disponível para a venda e atualizar o estoque após a transação.
+
+Relatório de Vendas: Gerar um relatório com o total de vendas realizadas e o valor total arrecadado.
+Cadastro de Usuário: Permitir o cadastro de usuários com informações de nome de usuário e senha para acessar o sistema.
